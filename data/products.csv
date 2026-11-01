@@ -1,0 +1,201 @@
+product_id,product_name,category,price
+P00001,Football,Sports,6306.43
+P00002,Cricket Bat,Sports,17351.22
+P00003,Business Book,Books,33657.48
+P00004,Laptop,Electronics,52321.98
+P00005,Headphones,Electronics,74117.54
+P00006,Jacket,Fashion,52205.31
+P00007,Football,Sports,5776.71
+P00008,Shoes,Fashion,7155.17
+P00009,Headphones,Electronics,8188.51
+P00010,Jeans,Fashion,66133.68
+P00011,Monitor,Electronics,29012.72
+P00012,Monitor,Electronics,48297.42
+P00013,Business Book,Books,11142.55
+P00014,Badminton Racket,Sports,42465.2
+P00015,Fiction Book,Books,48926.51
+P00016,Backpack,Fashion,26663.49
+P00017,Table,Home,47291.96
+P00018,Monitor,Electronics,69032.11
+P00019,Fiction Book,Books,51649.18
+P00020,Table,Home,6958.26
+P00021,Headphones,Electronics,10930.98
+P00022,Headphones,Electronics,44423.26
+P00023,Shoes,Fashion,26689.41
+P00024,Jacket,Fashion,23930.52
+P00025,Monitor,Electronics,18960.08
+P00026,Technology Book,Books,6776.53
+P00027,Yoga Mat,Sports,45274.43
+P00028,Fiction Book,Books,21726.6
+P00029,Cookbook,Books,2498.42
+P00030,Business Book,Books,65749.13
+P00031,Table,Home,39072.31
+P00032,Badminton Racket,Sports,14554.17
+P00033,Shoes,Fashion,22517.88
+P00034,Mobile,Electronics,58893.22
+P00035,Lamp,Home,37369.14
+P00036,Headphones,Electronics,18460.59
+P00037,Technology Book,Books,44747.77
+P00038,Badminton Racket,Sports,66709.98
+P00039,Laptop,Electronics,74022.75
+P00040,Shirt,Fashion,10332.72
+P00041,Cricket Bat,Sports,31854.33
+P00042,Yoga Mat,Sports,51379.18
+P00043,Football,Sports,71606.75
+P00044,Tablet,Electronics,1743.36
+P00045,Tablet,Electronics,1527.61
+P00046,Table,Home,3467.1
+P00047,Mobile,Electronics,71176.66
+P00048,Shoes,Fashion,38242.49
+P00049,Technology Book,Books,53590.87
+P00050,Jacket,Fashion,32056.36
+P00051,Shoes,Fashion,6640.87
+P00052,Yoga Mat,Sports,40555.32
+P00053,Monitor,Electronics,21171.35
+P00054,Vacuum Cleaner,Home,6387.11
+P00055,Table,Home,73086.35
+P00056,Monitor,Electronics,40461.07
+P00057,Shoes,Fashion,44189.57
+P00058,Technology Book,Books,51238.65
+P00059,Tablet,Electronics,23607.63
+P00060,Jacket,Fashion,54881.9
+P00061,Lamp,Home,4813.99
+P00062,Tablet,Electronics,69384.77
+P00063,Headphones,Electronics,34276.2
+P00064,Fiction Book,Books,4599.63
+P00065,Business Book,Books,55756.17
+P00066,Chair,Home,9398.5
+P00067,Cookbook,Books,10722.28
+P00068,Laptop,Electronics,12705.53
+P00069,Jeans,Fashion,39463.9
+P00070,Mixer,Home,12938.74
+P00071,Monitor,Electronics,56358.34
+P00072,Mixer,Home,55103.72
+P00073,Headphones,Electronics,57971.56
+P00074,Laptop,Electronics,25458.32
+P00075,Jacket,Fashion,20762.55
+P00076,Tablet,Electronics,20089.75
+P00077,Cricket Bat,Sports,47251.2
+P00078,Football,Sports,34412.23
+P00079,Jeans,Fashion,4630.21
+P00080,Cricket Bat,Sports,12932.66
+P00081,Chair,Home,19506.15
+P00082,Headphones,Electronics,67123.0
+P00083,Business Book,Books,54346.99
+P00084,Lamp,Home,55688.11
+P00085,Laptop,Electronics,3780.82
+P00086,Laptop,Electronics,18719.08
+P00087,Football,Sports,27616.25
+P00088,Monitor,Electronics,13832.59
+P00089,Mobile,Electronics,41688.43
+P00090,Cookbook,Books,55679.6
+P00091,Jacket,Fashion,17226.39
+P00092,Lamp,Home,31511.12
+P00093,Shirt,Fashion,20708.72
+P00094,Tablet,Electronics,43079.43
+P00095,Headphones,Electronics,37902.05
+P00096,Mobile,Electronics,13861.15
+P00097,Badminton Racket,Sports,73615.33
+P00098,Shoes,Fashion,5635.02
+P00099,Backpack,Fashion,65019.4
+P00100,Vacuum Cleaner,Home,24883.92
+P00101,Yoga Mat,Sports,34527.59
+P00102,Jeans,Fashion,15450.0
+P00103,Cricket Bat,Sports,58945.79
+P00104,Fiction Book,Books,18572.51
+P00105,Jeans,Fashion,44580.97
+P00106,Football,Sports,74835.14
+P00107,Table,Home,55068.52
+P00108,Yoga Mat,Sports,57155.93
+P00109,Lamp,Home,11717.2
+P00110,Jacket,Fashion,2281.31
+P00111,Yoga Mat,Sports,26308.57
+P00112,Cookbook,Books,65851.3
+P00113,Shirt,Fashion,608.92
+P00114,Business Book,Books,28532.47
+P00115,Vacuum Cleaner,Home,8244.2
+P00116,Badminton Racket,Sports,73742.12
+P00117,Jacket,Fashion,37156.15
+P00118,Mobile,Electronics,72955.66
+P00119,Monitor,Electronics,53518.11
+P00120,Tablet,Electronics,3770.57
+P00121,Lamp,Home,67347.92
+P00122,Badminton Racket,Sports,31272.73
+P00123,Jeans,Fashion,34655.12
+P00124,Tablet,Electronics,43767.41
+P00125,Badminton Racket,Sports,10446.78
+P00126,Shoes,Fashion,6074.87
+P00127,Cricket Bat,Sports,5140.07
+P00128,Business Book,Books,72334.26
+P00129,Lamp,Home,22229.86
+P00130,Shirt,Fashion,69490.13
+P00131,Shoes,Fashion,52704.06
+P00132,Shirt,Fashion,24195.3
+P00133,Mixer,Home,17904.04
+P00134,Table,Home,10640.33
+P00135,Cricket Bat,Sports,8618.48
+P00136,Headphones,Electronics,12745.94
+P00137,Backpack,Fashion,23895.48
+P00138,Headphones,Electronics,40426.38
+P00139,Table,Home,34167.82
+P00140,Backpack,Fashion,20243.09
+P00141,Headphones,Electronics,7236.36
+P00142,Business Book,Books,23164.02
+P00143,Cookbook,Books,52417.41
+P00144,Mobile,Electronics,16519.05
+P00145,Shirt,Fashion,11550.12
+P00146,Cookbook,Books,18992.3
+P00147,Jeans,Fashion,30020.21
+P00148,Mobile,Electronics,50950.16
+P00149,Mixer,Home,61596.68
+P00150,Chair,Home,2815.62
+P00151,Shoes,Fashion,64167.8
+P00152,Yoga Mat,Sports,56231.84
+P00153,Lamp,Home,7557.03
+P00154,Headphones,Electronics,60390.31
+P00155,Monitor,Electronics,9548.27
+P00156,Mobile,Electronics,62362.74
+P00157,Lamp,Home,10238.29
+P00158,Shoes,Fashion,28231.86
+P00159,Technology Book,Books,70349.33
+P00160,Tablet,Electronics,43883.12
+P00161,Mixer,Home,68848.43
+P00162,Tablet,Electronics,2124.11
+P00163,Tablet,Electronics,15232.4
+P00164,Technology Book,Books,33535.63
+P00165,Monitor,Electronics,7352.41
+P00166,Shirt,Fashion,9628.31
+P00167,Backpack,Fashion,4272.51
+P00168,Cricket Bat,Sports,32770.15
+P00169,Shoes,Fashion,37461.42
+P00170,Shoes,Fashion,51399.36
+P00171,Chair,Home,26868.77
+P00172,Chair,Home,20986.14
+P00173,Backpack,Fashion,66315.07
+P00174,Mobile,Electronics,46250.94
+P00175,Fiction Book,Books,18810.97
+P00176,Vacuum Cleaner,Home,37667.42
+P00177,Yoga Mat,Sports,36187.8
+P00178,Tablet,Electronics,21343.31
+P00179,Monitor,Electronics,31732.99
+P00180,Technology Book,Books,66406.61
+P00181,Badminton Racket,Sports,19061.51
+P00182,Yoga Mat,Sports,59716.05
+P00183,Shoes,Fashion,58752.72
+P00184,Jeans,Fashion,36236.49
+P00185,Football,Sports,26130.54
+P00186,Cricket Bat,Sports,37928.3
+P00187,Shoes,Fashion,20647.46
+P00188,Laptop,Electronics,24256.38
+P00189,Lamp,Home,2683.11
+P00190,Mixer,Home,4865.05
+P00191,Football,Sports,39942.71
+P00192,Cricket Bat,Sports,74970.63
+P00193,Chair,Home,7960.01
+P00194,Business Book,Books,18465.88
+P00195,Yoga Mat,Sports,61313.24
+P00196,Mobile,Electronics,57421.7
+P00197,Lamp,Home,43389.06
+P00198,Shoes,Fashion,26932.95
+P00199,Chair,Home,13619.48
+P00200,Cricket Bat,Sports,24191.33

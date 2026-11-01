@@ -1,1 +1,31 @@
-.venv/__pycache__/*.pyc.env.ipynb_checkpoints/.vscode/
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+.venv-local/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/*.log
+
+# Generated pipeline outputs
+data/staging/
+data/core/
+data/analytics/
+
+# OS files
+.DS_Store
+Thumbs.db
